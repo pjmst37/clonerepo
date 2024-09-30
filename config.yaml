@@ -1,0 +1,4 @@
+working_directory: ~/development/
+base_url: 'https://gitlab.com'
+repos:
+  - test.git
